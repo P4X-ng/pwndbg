@@ -1,0 +1,8 @@
+./gdbpatches.py
+./pwndbglldbhandler.py
+./gdbinit.py
+./__init__.py
+./common.py
+./pwndbg_lldb.py
+./lldbinit.py
+./pwndbg_gdb.py

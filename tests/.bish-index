@@ -1,0 +1,14 @@
+./unit_tests/test_hex2ptr.py
+./unit_tests/test_zig_asm.py
+./unit_tests/test_find_fastbin_size.py
+./unit_tests/test_regs.py
+./unit_tests/test_arch.py
+./unit_tests/test_bit_math.py
+./unit_tests/__init__.py
+./unit_tests/test_functions.py
+./unit_tests/test_which.py
+./unit_tests/test_memory.py
+./__init__.py
+./host/__init__.py
+./tests.py
+./library/__init__.py
