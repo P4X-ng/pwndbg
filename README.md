@@ -11,7 +11,11 @@ with a focus on features needed by low-level software developers, hardware hacke
 reverse-engineers and exploit developers.
 
 It has a boatload of features, see our [Features page](https://pwndbg.re/stable/features/)
-and [CHEATSHEET][CHEATSHEET] (feel free to print it!). If you have any questions you may read the
+and [CHEATSHEET][CHEATSHEET] (feel free to print it!). 
+
+**New to pwndbg?** Check out the [QUICKSTART.md](QUICKSTART.md) guide for a comprehensive overview of pwndbg's functionality and how it fits into your reverse engineering workflow.
+
+If you have any questions you may read the
 [documentation](https://pwndbg.re/stable/) or asks us in our [Discord server](https://discord.gg/x47DssnGwm).
 
 [CHEATSHEET]: https://pwndbg.re/dev/CHEATSHEET.pdf
